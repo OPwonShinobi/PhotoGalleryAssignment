@@ -36,9 +36,9 @@ public class CameraTest {
 
     @Test
     public void validateCameraScenario() {
-//        Bitmap icon = BitmapFactory.decodeResource(
-//                InstrumentationRegistry.getTargetContext().getResources(),
-//                R.mipmap.ic_launcher);
+        Bitmap icon = BitmapFactory.decodeResource(
+                InstrumentationRegistry.getTargetContext().getResources(),
+                R.mipmap.ic_launcher);
 //
 //        Intent resultData = new Intent();
 //        resultData.putExtra("data", icon);
