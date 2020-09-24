@@ -30,7 +30,7 @@ import static androidx.test.espresso.matcher.ViewMatchers.withText;
 @RunWith(AndroidJUnit4.class)
 @LargeTest
 public class CameraTest {
-    @Rule
+//    @Rule
     public IntentsTestRule<MainActivity> intentsRule =
             new IntentsTestRule<>(MainActivity.class);
 
